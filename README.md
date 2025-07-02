@@ -31,7 +31,7 @@ Este é um projeto desenvolvido como parte da formação em Python pela [DIO (Di
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/snakegirlcode/sistema-bancario-python.git
+   git clone https://github.com/snakegirlcode/projeto-sistema-bancario.git
 
 
 2. **Acesse a pasta do projeto**:
